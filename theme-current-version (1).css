@@ -2705,8 +2705,4 @@
 .p-profiles-show .profile-content .activity {
     display: none !important;
 }
-/* Блок "Избранное" - перемещаем на место скрытых блоков */
-.p-profiles-show .profile-content .cc-2 > .c-column:last-child > .block {
-    display: block !important;
-    order: -1; /* Перемещаем в начало */
-}
+
