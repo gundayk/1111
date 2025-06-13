@@ -2710,9 +2710,3 @@
     display: block !important;
     order: -1; /* Перемещаем в начало */
 }
-
-/* Контейнер для блоков - устанавливаем flex-порядок */
-.p-profiles-show .profile-content .cc-2 {
-    display: flex;
-    flex-direction: column;
-}
